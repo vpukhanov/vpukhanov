@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome ✨
+
+I am Vyacheslav Pukhanov, a fullstack web developer based in Yaroslavl, Russia. Also doing mobile development as a hobby!
+
+- 🌎 [Check out my website](https://pukhanov.ru)
+- 📫 [Send me an email](mailto:vyacheslav@pukhanov.ru)
+- 🐦 [Tweet at me](https://twitter.com/vpukhanov)
 
 <!--
 **vpukhanov/vpukhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
