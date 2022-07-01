@@ -2,7 +2,9 @@
 
 I am Vyacheslav Pukhanov, a senior frontend engineer based in Moscow, Russia. Currently working at Tinkoff Bank.
 
+- 🌎 [Check out my blog](https://pukhanov.ru)
 - 📫 [Send me an email](mailto:vyacheslav@hey.com)
+- 🐦 [Tweet at me](https://twitter.com/vpukhanov)
 
 <!--
 **vpukhanov/vpukhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
