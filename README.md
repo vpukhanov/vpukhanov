@@ -1,6 +1,6 @@
 ### Welcome ✨
 
-I am Vyacheslav Pukhanov, a senior frontend engineer based in Moscow, Russia. Currently working at Tinkoff Bank.
+I am Vyacheslav Pukhanov, a senior frontend engineer based in Moscow, Russia. Currently working at a large media company.
 
 - 🌎 [Check out my blog](https://pukhanov.ru)
 - 📫 [Send me an email](mailto:vyacheslav@pukhanov.ru)
