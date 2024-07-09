@@ -1,7 +1,6 @@
-### Welcome ✨
+### Hi, my name is Vyacheslav 👋🏻
 
-I am Vyacheslav Pukhanov, a frontend team lead based in Moscow, Russia. I currently work in the brand media department of a large bank.
+I am a frontend team lead based in Moscow. I'm interested in open indie web, dev tools and utilities engineering, and frontend performace.
 
-- 🌎 [Check out my blog](https://pukhanov.ru)
-- 📫 [Send me an email](mailto:vyacheslav@pukhanov.ru)
-- 💬 [Message me on Telegram](https://t.me/vpukhanov)
+[My personal website](https://pukhanov.ru)<br />
+[Email me at vyacheslav@pukhanov.ru](mailto:vyacheslav@pukhanov.ru)
